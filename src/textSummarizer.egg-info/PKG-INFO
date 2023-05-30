@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/Pavan kumar C N/oneshot_text_summarizer
+Author: Pavan kumar C N
+Author-email: pavankumarcn66@gmail.com
+Project-URL: Bug Tracker, https://github.com/Pavan kumar C N/oneshot_text_summarizer/issues
+License-File: LICENSE
+
 # End to end Text-Summarizer-Project
 
 ## Workflows
@@ -18,12 +28,12 @@
 Clone the repository
 
 ```bash
-https://github.com/pavankumarcn66/oneshot_text_summarizer.git
+https://github.com/entbappy/End-to-end-Text-Summarization
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n summary python=3.10 -y
+conda create -n summary python=3.8 -y
 ```
 
 ```bash
